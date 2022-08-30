@@ -90,7 +90,7 @@
  const pipe = {
      top: { sprite: new Image() },
      bot: { sprite: new Image() },
-     gap: 125,
+     gap: 145,
      moved: true,
      pipes: [],
      draw: function() {
